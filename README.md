@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <img src="https://github.com/ergodron/text-analyzer/main/img/logo.png" alt="Logo" width="100" height="100">
+  <img src="img/logo.png" alt="Logo" width="100" height="100">
 
   <h3 align="center">Text Analyzer</h3>
 
