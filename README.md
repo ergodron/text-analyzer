@@ -12,7 +12,8 @@
 
 ## О проекте
 
-![image](https://github.com/ergodron/text-analyzer/main/img/process.gif)
+![image](https://github.com/ergodron/text-analyzer/blob/main/img/process.gif)
+
 
 Анализ текста на сайтах: сервис должен принимать на вход массив URL'ов, анализировать страницы по этим адресам, и возвращать PDF документ, в котором в таблице будут представлены три наиболее часто встречающихся слова длиннее 4 символов по каждому из URL'ов.
 
