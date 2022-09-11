@@ -22,10 +22,8 @@
 Склонируйте репозиторий и перейдите в него
 
 ```
-
 git clone https://github.com/ergodron/text-analyzer.git
 cd text-analyzer
-
 ```
 
 ### Запуск и остановка контейнера
@@ -33,17 +31,13 @@ cd text-analyzer
 Для запуска выполните:
 
 ```
-
 npm run up
-
 ```
 
 Для остановки выполните:
 
 ```
-
 npm run down
-
 ```
 
 ### Тесты
@@ -51,9 +45,7 @@ npm run down
 Запустить тесты можно при помощи команды:
 
 ```
-
 npm run test
-
 ```
 
 ### Сваггер
@@ -61,9 +53,7 @@ npm run test
 Сваггер доступен по этому адресу:
 
 ```
-
 http://localhost:3001/documentation
-
 ```
 
 ### Стек технологий
